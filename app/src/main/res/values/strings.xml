@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLite Example</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+</resources>
